@@ -1,7 +1,30 @@
-# Website-Based Chatbot
+# Chatbot Project
 
-This project is a website-based chatbot that scrapes content from a given URL and uses OpenAI's GPT-3.5-turbo to answer questions based on the scraped content.
+## Overview
+
+This project is a chatbot application that uses OpenAI's GPT-3.5-turbo model to generate responses based on context and user queries. The chatbot is designed to handle input and provide meaningful answers based on data scraped from a specified website.
+
+## Features
+
+- Scrapes website content using BeautifulSoup.
+- Generates responses using OpenAI's GPT-3.5-turbo model.
+- Provides a command-line interface for interaction.
+
+## Requirements
+
+- Python 3.8 or higher
+- `openai` library
+- `beautifulsoup4` library
+- `requests` library
+
 ## Setup Instructions
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+https://github.com/anushka-143/chatbot.git
 
 ### Step 1: Create and activate a virtual environment
 
