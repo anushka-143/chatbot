@@ -1,18 +1,6 @@
 # Website-Based Chatbot
 
 This project is a website-based chatbot that scrapes content from a given URL and uses OpenAI's GPT-3.5-turbo to answer questions based on the scraped content.
-
-## Project Structure
-
-chatbot_project/
-│
-├── .env
-├── requirements.txt
-├── environment.yml
-├── app.py
-├── scrape.py
-└── chatbot.py
-
 ## Setup Instructions
 
 ### Step 1: Create and activate a virtual environment
